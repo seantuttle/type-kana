@@ -1,0 +1,138 @@
+2022/02/16 16:53:28 main: running type-kana server on port 8000
+2022/02/16 16:53:40 GET / handled in 631.8µs
+2022/02/16 16:53:40 GET /static/assets/css/styles.css handled in 0s
+2022/02/16 16:53:40 GET /static/assets/js/index.js handled in 351.6µs
+2022/02/16 16:54:28 GET / handled in 0s
+2022/02/16 16:54:28 GET /static/assets/js/index.js handled in 919.8µs
+2022/02/16 20:39:36 main: running type-kana server on port 8000
+2022/02/16 20:39:41 GET / handled in 866.7µs
+2022/02/16 20:39:41 GET /static/assets/css/styles.css handled in 15.294ms
+2022/02/16 20:39:41 GET /static/assets/js/index.js handled in 11.7356ms
+2022/02/16 20:46:52 main: running type-kana server on port 8000
+2022/02/16 20:47:02 GET / handled in 1.7445ms
+2022/02/16 20:47:03 GET /static/assets/css/styles.css handled in 152.9714ms
+2022/02/16 20:47:03 GET /static/assets/css/normalize.css handled in 144.6795ms
+2022/02/16 20:47:03 GET /static/assets/js/index.js handled in 136.958ms
+2022/02/16 20:47:03 GET /static/assets/images/favicon.ico handled in 10.3193ms
+2022/02/16 20:48:09 main: running type-kana server on port 8000
+2022/02/16 20:48:11 GET / handled in 133.9µs
+2022/02/16 20:48:11 GET /static/assets/css/normalize.css handled in 106.8039ms
+2022/02/16 20:48:11 GET /static/assets/css/styles.css handled in 109.6667ms
+2022/02/16 20:48:11 GET /static/assets/js/index.js handled in 106.2822ms
+2022/02/16 20:48:11 GET /static/assets/images/favicon.ico handled in 666.2µs
+2022/02/16 21:57:03 main: running type-kana server on port 8000
+2022/02/16 21:57:09 GET / handled in 163.1µs
+2022/02/16 21:57:10 GET /static/assets/css/styles.css handled in 101.191ms
+2022/02/16 21:57:10 GET /static/assets/css/normalize.css handled in 98.6084ms
+2022/02/16 21:57:10 GET /static/assets/js/index.js handled in 97.8916ms
+2022/02/18 10:09:40 main: running type-kana server on port 8000
+2022/02/18 10:09:53 GET / handled in 998.6µs
+2022/02/18 10:09:54 GET /static/assets/css/normalize.css handled in 421.1825ms
+2022/02/18 10:09:54 GET /static/assets/css/styles.css handled in 430.2163ms
+2022/02/18 10:09:54 GET /static/assets/js/index.js handled in 422.2022ms
+2022/02/20 13:12:10 main: running type-kana server on port 8000
+2022/02/20 13:12:14 GET / handled in 73.8µs
+2022/02/20 13:12:14 GET /static/assets/js/index.js handled in 12.5113ms
+2022/02/20 13:12:14 GET /static/assets/css/styles.css handled in 14.6978ms
+2022/02/20 13:12:14 GET /static/assets/css/normalize.css handled in 14.1275ms
+2022/02/20 13:50:00 main: running type-kana server on port 8000
+2022/02/20 13:50:04 GET / handled in 300.4µs
+2022/02/20 14:14:34 main: running type-kana server on port 8000
+2022/02/20 14:14:38 GET / handled in 366.7µs
+2022/02/20 15:11:57 GET / handled in 481.5µs
+2022/02/21 10:44:07 main: running type-kana server on port 8000
+2022/02/21 10:44:13 GET / handled in 0s
+2022/02/21 10:44:13 GET /static/assets/js/index.js handled in 12.5892ms
+2022/02/21 10:44:13 GET /static/assets/css/styles.css handled in 18.2608ms
+2022/02/21 11:00:09 main: running type-kana server on port 8000
+2022/02/21 11:00:14 GET / handled in 0s
+2022/02/23 11:10:04 main: running type-kana server on port 8000
+2022/02/23 11:10:11 GET / handled in 1.1887ms
+2022/02/23 11:10:12 GET /static/assets/css/normalize.css handled in 14.0924ms
+2022/02/23 11:10:12 GET /static/assets/css/styles.css handled in 14.7003ms
+2022/02/23 11:10:12 GET /static/assets/js/index.js handled in 13.7146ms
+2022/02/23 11:45:34 GET / handled in 880.7µs
+2022/02/24 10:14:38 main: running type-kana server on port 8000
+2022/02/24 10:14:44 GET / handled in 983.8µs
+2022/02/24 10:14:44 GET /static/assets/css/styles.css handled in 168.9054ms
+2022/02/24 10:14:44 GET /static/assets/css/normalize.css handled in 165.8881ms
+2022/02/24 10:14:44 GET /static/assets/js/index.js handled in 162.4109ms
+2022/02/24 10:14:46 GET /static/assets/images/favicon.ico handled in 25.3067ms
+2022/02/25 10:47:44 main: running type-kana server on port 8000
+2022/02/25 10:48:02 GET / handled in 0s
+2022/02/25 10:48:03 GET /static/assets/js/index.js handled in 10.6842ms
+2022/02/25 10:48:03 GET /static/assets/css/styles.css handled in 12.705ms
+2022/02/25 11:12:45 main: running type-kana server on port 8000
+2022/02/25 11:13:12 GET / handled in 682.5µs
+2022/02/25 16:23:06 main: running type-kana server on port 8000
+2022/02/25 16:23:07 GET / handled in 1.4918ms
+2022/02/25 16:23:08 GET /static/assets/images/favicon.ico handled in 7.0495ms
+2022/02/25 17:03:14 main: running type-kana server on port 8000
+2022/02/25 17:03:21 GET / handled in 995.4µs
+2022/02/25 17:03:42 main: running type-kana server on port 8000
+2022/02/25 17:03:47 GET / handled in 457.8µs
+2022/02/25 17:03:47 GET /static/assets/css/styles.css handled in 214.4983ms
+2022/02/25 17:03:47 GET /static/assets/js/index.js handled in 206.9114ms
+2022/02/25 17:03:47 GET /static/assets/css/normalize.css handled in 210.3923ms
+2022/02/25 17:03:48 GET /static/assets/images/favicon.ico handled in 1.8176ms
+2022/02/25 17:04:01 main: running type-kana server on port 8000
+2022/02/25 17:04:09 GET / handled in 581.9µs
+2022/02/25 17:04:10 GET /static/assets/css/styles.css handled in 113.6621ms
+2022/02/25 17:04:10 GET /static/assets/js/index.js handled in 109.7556ms
+2022/02/25 17:04:10 GET /static/assets/css/normalize.css handled in 112.6113ms
+2022/02/25 17:04:10 GET /static/assets/images/favicon.ico handled in 649.9µs
+2022/02/25 17:10:45 main: running type-kana server on port 8000
+2022/02/25 17:10:52 GET / handled in 1.4134ms
+2022/02/25 17:10:53 GET /static/assets/css/normalize.css handled in 133.1807ms
+2022/02/25 17:10:53 GET /static/assets/css/styles.css handled in 136.0334ms
+2022/02/25 17:10:53 GET /static/assets/js/index.js handled in 131.2684ms
+2022/02/25 17:10:53 GET /static/assets/images/favicon.ico handled in 924.3µs
+2022/02/25 17:14:37 main: running type-kana server on port 8000
+2022/02/25 17:14:47 GET / handled in 632µs
+2022/02/25 17:14:47 GET /static/assets/css/styles.css handled in 200.246ms
+2022/02/25 17:14:47 GET /static/assets/js/index.js handled in 182.5192ms
+2022/02/25 17:14:47 GET /static/assets/css/normalize.css handled in 185.4221ms
+2022/02/25 17:14:48 GET /static/assets/images/favicon.ico handled in 1.4865ms
+2022/02/25 17:14:50 GET / handled in 0s
+2022/02/25 17:14:50 GET /static/assets/css/styles.css handled in 970.3µs
+2022/02/25 17:14:50 GET /static/assets/css/normalize.css handled in 2.049ms
+2022/02/25 17:14:50 GET /static/assets/js/index.js handled in 686.8µs
+2022/02/25 17:14:50 GET /static/assets/images/favicon.ico handled in 755.6µs
+2022/02/25 17:15:03 main: running type-kana server on port 8000
+2022/02/25 17:15:12 GET / handled in 2.2369ms
+2022/02/25 17:15:12 GET /static/assets/js/index.js handled in 120.5219ms
+2022/02/25 17:15:12 GET /static/assets/css/styles.css handled in 130.7928ms
+2022/02/25 17:15:12 GET /static/assets/css/normalize.css handled in 121.6515ms
+2022/02/25 17:15:13 GET /static/assets/images/favicon.ico handled in 658.7µs
+2022/02/25 17:16:27 main: running type-kana server on port 8000
+2022/02/25 17:16:33 GET / handled in 411µs
+2022/02/25 17:16:33 GET /static/assets/css/normalize.css handled in 165.9855ms
+2022/02/25 17:16:33 GET /static/assets/js/index.js handled in 160.3983ms
+2022/02/25 17:16:33 GET /static/assets/css/styles.css handled in 173.5997ms
+2022/02/25 17:16:33 GET /static/assets/images/favicon.ico handled in 469.9µs
+2022/02/25 17:20:15 main: running type-kana server on port 8000
+2022/02/25 17:20:58 main: running type-kana server on port 8000
+2022/02/25 17:21:03 GET / handled in 957.7µs
+2022/02/25 17:21:03 GET /static/assets/js/index.js handled in 99.7133ms
+2022/02/25 17:21:03 GET /static/assets/css/normalize.css handled in 101.6301ms
+2022/02/25 17:21:03 GET /static/assets/css/styles.css handled in 103.4517ms
+2022/02/25 17:21:03 GET /static/assets/images/favicon.ico handled in 1.3354ms
+2022/02/25 17:22:21 main: running type-kana server on port 8000
+2022/02/25 17:22:38 GET / handled in 1.6802ms
+2022/02/25 17:22:38 GET /static/assets/css/styles.css handled in 171.1469ms
+2022/02/25 17:22:38 GET /static/assets/css/normalize.css handled in 168.6793ms
+2022/02/25 17:22:38 GET /static/assets/js/index.js handled in 165.029ms
+2022/02/25 17:22:38 GET /static/assets/images/favicon.ico handled in 1.4002ms
+2022/02/25 17:23:54 main: running type-kana server on port 8000
+2022/02/25 17:24:02 GET / handled in 121.8µs
+2022/02/25 17:24:02 GET /static/assets/css/styles.css handled in 111.884ms
+2022/02/25 17:24:02 GET /static/assets/css/normalize.css handled in 111.884ms
+2022/02/25 17:24:02 GET /static/assets/js/index.js handled in 109.9678ms
+2022/02/25 17:24:03 GET /static/assets/images/favicon.ico handled in 799.1µs
+2022/02/25 17:25:25 main: running type-kana server on port 8000
+2022/02/25 17:25:29 GET / handled in 1.2028ms
+2022/02/25 17:25:29 GET /static/assets/css/styles.css handled in 581.4µs
+2022/02/25 17:25:29 GET /static/assets/js/index.js handled in 425.3µs
+2022/02/25 17:40:14 GET / handled in 670.4µs
+2022/02/25 17:40:14 GET /static/assets/css/styles.css handled in 0s
+2022/02/25 17:40:14 GET /static/assets/js/index.js handled in 95.9µs
